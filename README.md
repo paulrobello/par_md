@@ -4,6 +4,9 @@
 
 PAR MD displays markdown files in the terminal using rich formatting.
 
+## Screenshot
+![Screenshot of PAR MD](https://raw.githubusercontent.com/paulrobello/par_md/main/Screenshot.png)
+
 
 ## Installation
 
